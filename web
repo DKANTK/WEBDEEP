@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<head>
+    <title>Contact</title>
+</head>
+
+<body>
+    <center><font face="serif" color="blue"><h3>Patna University</h3></font></center>
+
+    <h2>Department of Statistics MCA,PU</h2>
+    <Address>Ashok Rajpath,Patna -800005</Address>
+    <a href="https://github.com/DKANTK">My_GitHub_Profile</a><br><br>
+    <a href="Info.html" target="-blank">Back Home</a>
+
+
+</body>
+
+</html>
+<!DOCTYPE html>
+<head>
+    <link rel="stylesheet" href="styles.css"></link>
+    <title>Deep's Persional Website</title>
+</head>
+<body>
+<img src="my image.jpeg"></img>
+<h1>DEEP</h1>
+<p>Co-Founder and CTO at RinkTech</p>
+<p>I Am a WebDeveloper and Security Learner</p>
+<p>I am a Self-Learner </p>
+<hr>
+<h3>Skills that i have learned</h3>
+<p>HTML</p>
+<p>css</p>
+<p>javascript</p>
+<p>C</p>
+<p>C++</p>
+<p>Financial-Market</p>
+<hr>
+<h3>Work-Experience </h3>
+<p> </p>
+<p> </p>
+<p></p>
+<table>
+    <thead>
+        <tr>
+            <th>Date</th>&nbsp;
+            <th>Experience</th>&nbsp;&nbsp;
+        </tr>
+        
+        
+        
+    </thead>
+</table>
+<table>
+    <tr>
+        <td>2018-2019</td>
+        <td>As WebDeveloper at CMS</td>
+    </tr>
+    <tr>
+        <td>2019-2021</td>
+        <td>As full Stack WebDeveloper</td>
+    </tr>
+    <tr>
+        <td>2020</td>
+        <td>To till Now As Stock-Trader, Nifty And BankNifty Trader</td>
+    </tr>
+</table>
+
+
+</body>
+
+</html>
+<!DOCTYPE html>
+
+<head>
+    <title>Project On Table</title>
+    <link rel="stylesheet" href="styles.css"></link>
+ <!-- <style>
+        table, th, td{
+
+border:1px solid blue;
+border-collapse:collapse;
+        }
+        th, td {
+            padding="15px";
+        }
+    </style> --> 
+</head>
+<body>
+   <table  bgcolor="pink" style="width:100%">
+
+        <tr>
+
+            <td><img src="my image.jpeg" ></img> </td>
+            
+        
+            <td align="left"><a href="project.html" target="_self">Home</a></td>
+            <td align="center"><a href="About.html" target="_parent">About</a></td>
+            <td align="right"><a href="contact.html" target="_parent">Contact</a></td> 
+             </tr>
+        
+    </table>
+    
+
+        <h2 align="center">Welcome To Patna University</h2>
+        <br>
+        <table style="width: 100%">
+            <tr>
+                <td>mca</td>
+                <td>mca</td>
+                <td>mca</td>
+                <td>mca</td>
+                <td>mca</td>
+                <td>mca</td>
+                <td>mca</td>
+            </tr>
+              
+
+        </table>
+        <br>
+        <h3 align="center">MCA 2-YEARS PROGRAM</h3>
+        <table style="width:100%" padding="2px">
+         <tr><td>Sem-1</td></tr>
+         <tr><td>Sem-1</td></tr>
+         <tr><td>Sem-1</td></tr>
+         <tr><td>Sem-1</td></tr>
+         <tr><td>Sem-1</td></tr>
+         
+
+        </table>
+      
+<!--<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<div class="footer">
+    <footer>
+
+        <tr>
+            <td colspan="6" align="center"><b>&copy 2022</b></td>
+        </tr>
+    </footer>
+</div> -->
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+   <table align="center">
+
+    <tr bgcolor="pink">
+
+        <td colspan="3" align="center">Copyright &copy;protected MCA-II</td>
+    </tr>
+   </table>
+</body>
+
+
+</html>
+img{
+     height: 50px;
+     width: 50px;
+    border-radius:100% ;
+}
+table,
+td {
+    border: 0px solid #333;
+
+}
+
+thead,
+tfoot {
+    background-color: #333;
+    color: #fff;
+}
+
+
+table,td{
+border:1px solid black
+border-collapse:collapse;
+
+}table, th, td{
+
+    border:1px solid blue;
+    border-collapse:collapse;
+            }
+            th, td {
+                padding="15px";
+            }
+
+            .footer{
+
+                text-align: center;
+                padding-bottom:0%;
+                color: rgb(75, 22, 22);
+            }
+
+.footer{
+
+height: 30px;
+width:100%;
+background-color: rgb(155, 210, 247);
+}
+
+<!DOCTYPE html>
+<head>
+
+    <title>About Me</title>
+</head>
+
+<body>
+    <tr>
+        <td><h1>About Me</h1>
+            <ul>
+            <li>I Am DEEP</li> 
+            <li>I Am Student Of Master of Computer Application </li>
+            <li>I Am CTO in KMFSL And RinkTech Digital Solutiions</li>
+            </td></ul>
+    </tr>
+</table>
+<hr>
+
+   <br>
+<a href="Hobbies.html">My Hobbies</a>
+<br>
+<a href="WorkExperience.html">Work Experience</a>
+<table>
+<thead>
+    <tr>
+        <th>Work</th>
+    
+        <th>Experince</th>
+    </tr>
+    <tbody>
+
+    </tbody>
+    <tfoot></tfoot>
+</thead>
+
+<tr>
+    <td><b text="Black">I Am interested to solve the Problems<td></td></b>
+     <tr><td>I Am interested to Solve Social Problems </td> </tr>  
+    </tr>
+</table>
+<a href="classProject.html">Class Work</a><br><br>
+<a href="contact.html" target="-blank">Contact Me</a><br><br>
+
+<button onclick="window.print()">Print this page</button>
+
+
+</body>
+
+
+</html>
